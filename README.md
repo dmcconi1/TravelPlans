@@ -1,3 +1,13 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit. More can be added and updates to app.css file may be required to modularize based on class and div type to apply style changes to each new travel destination added to a grid.
+## Purpose
+
+* A simple coding project meant to increase my coding portfolio and skill sets
+* A helpful tool for others to use as an basic vision board for destinations they want to visit
+
+## Directions
+
+After downloading and compiling the files in a local folder:
+
+```
+launch the index.html file in your web browser, Chrome preferably, or drag and drop the index.html file from your directory to a fresh tab in your web browser
