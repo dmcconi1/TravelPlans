@@ -1,4 +1,4 @@
-# Travel Destinations
+# Travel Plans
 
 ## Purpose
 
